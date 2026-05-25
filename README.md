@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 I'm a Student and Full-Stack Developer<br>🔭 I’m currently working on Mobile and Web Development<br>🌱 I’m currently learning AI<br>👯 I’m looking to collaborate with open source enthusiasts<br>🥅 2025 Goals: Learn AI, Cloud Technologies</p>
+<p align="left">🎓 I'm a Full-Stack Developer<br>🔭 I’m currently working on Mobile and Web Development<br>🌱 I’m currently learning AI<br>👯 I’m looking to collaborate with open source enthusiasts<br>🥅 2026 Goals: Learn AI, Cloud Technologies</p>
 
 ###
 
